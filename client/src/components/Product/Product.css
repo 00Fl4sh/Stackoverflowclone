@@ -1,0 +1,17 @@
+.row-column-flex{
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 200px;
+    /* margin: 100px; */
+}
+.row-column-flex div{
+    border: 1px solid ;
+    height: 50px;
+    width: 100px;
+    justify-content: space-between;
+}
+.row-column-input{
+    margin-top: 90px;
+    
+}
